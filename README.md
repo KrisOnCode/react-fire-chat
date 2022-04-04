@@ -1,2 +1,15 @@
-# React Firebase Auth
-<img class="inline object-cover w-8 h-8 rounded-full" src="https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Profile image"/>
+# React Firebase Chat
+ Chat application built with React Custom Hooks, Firebase and TailwindCSS.
+
+Features
+User Autentication with Firebase using email and password
+Custom Hooks for Authentication
+Auth Context and useContext custom Hook
+Dark Mode
+Online and Offline Users List
+Chat
+
+Tech Stack
+Client: React, Custom Hooks, TailwindCss
+
+Server: Firebase Authentication, Firebase Firestore, Firebase Storage
